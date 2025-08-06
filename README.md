@@ -1,6 +1,8 @@
 # Votezy
 
-Voting application using Java, Mysql, Springboot, JPA , You can see step by step coding in commit section along with their respective message.
+Voting application using Java, Mysql, Springboot, JPA.
+
+It is a secure and user-friendly online voting platform that facilitates digital elections for organizations, colleges, or communities. It handles candidate registration, voter authentication, vote casting, and result declaration seamlessly..
 
 ✅ Key Features: 🗳️ Voter & Candidate Registration: Ensures only valid users can register and participate.
 
